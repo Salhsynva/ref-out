@@ -1,0 +1,14 @@
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\bin\Debug\netcoreapp3.1\refout.exe
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\bin\Debug\netcoreapp3.1\refout.deps.json
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\bin\Debug\netcoreapp3.1\refout.runtimeconfig.json
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\bin\Debug\netcoreapp3.1\refout.runtimeconfig.dev.json
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\bin\Debug\netcoreapp3.1\refout.dll
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\bin\Debug\netcoreapp3.1\refout.pdb
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.csproj.AssemblyReference.cache
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.AssemblyInfoInputs.cache
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.AssemblyInfo.cs
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.csproj.CoreCompileInputs.cache
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.dll
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.pdb
+C:\Users\HardSoft\Desktop\CODE.TASKS\New folder\refout\refout\obj\Debug\netcoreapp3.1\refout.genruntimeconfig.cache
